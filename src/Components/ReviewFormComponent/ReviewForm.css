@@ -1,0 +1,35 @@
+.hotelName_reviewForm {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    margin: 2%;
+}
+.review_form {
+    width: 100%;
+    display: flex;
+    /* border: 1px solid; */
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.5);
+    margin-top: 2%;
+
+}
+.review_form .title {
+    width: 40%;
+    /* border: 1px solid; */
+    display: inline-block;
+    text-align: left;
+    padding-left: 5%;
+ }
+.review_form .star_and_text {
+    width: 60%;
+    /* border: 1px solid; */
+    display: inline-block;
+    text-align: left;
+    padding: 1%;
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.2);
+}
+.review_text {
+    width: 100% ;
+}
+.submit_review button {
+    margin-top: 2%;
+}

@@ -1,0 +1,12 @@
+.filterView {
+    width: 20%;
+    /* border: 1px dashed;
+    border-radius: 10%; */
+    margin-left: 5%;
+    display: inline-block;
+    height: 100%;
+}
+.filterView .buttonFilter {
+    margin-left: 40%;
+    margin-bottom: 5%;
+}

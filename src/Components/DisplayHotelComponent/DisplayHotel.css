@@ -1,0 +1,10 @@
+.display-hotel {
+    width: 65%;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 0%;
+    /* border: 1px dashed;
+    border-radius: 10%; */
+    display: inline-block;
+    text-align: center;
+}

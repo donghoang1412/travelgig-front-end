@@ -1,0 +1,214 @@
+.info-and-payment {
+    width: 100%;
+    /* border: 1px solid; */
+    display: flex;
+    /* margin: 1%; */
+}
+.stepper-box {
+    width: 100%;
+    display: inline-block;
+}
+.back-button{
+    width: 60%;
+    /* border: 1px solid; */
+    display: inline-block;
+    margin: 1%;
+}
+.stepper {
+    width: 30%;
+    margin: 1%;
+    display: inline-block;
+    /* border: 1px solid; */
+}
+.info-of-hotel-before-booking {
+    width: 60%;
+    /* border: 1px solid; */
+    display: inline-block;
+    padding: 2%;
+    margin: 1%;
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.5);
+
+}
+.payment-form-and-stripe {
+    width: 40% !important;
+    display: inline-block;
+    /* border: 1px solid; */
+}
+.payment-form {
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    display: inline-block;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.5);
+
+    
+}
+.payment-form button {
+    width: 100%;
+    margin-bottom: 3%;
+}
+.base-price-box {
+    width: 100%;
+    margin-bottom: 3%;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 10%;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 0.5);
+    /* border-radius: 10px 10px 10px 10px; */
+}
+.base-price {
+    width: 45%;
+    display: inline-block;
+    text-align: left;
+    padding-left: 10px;
+}
+.price {
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+.price span {
+    font-weight: bold;
+}
+
+.price-before-tax-box{
+    width: 100%;
+    margin-bottom: 3%;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5%;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 0.5);
+    /* border-radius:  10px 10px 10px 10px; */
+}
+.price-before-tax {
+    width: 45%;
+    display: inline-block;
+    text-align: left;
+    padding-left: 10px;
+}
+.price-tax {
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+.price-tax span {
+    font-weight: bold;
+}
+.price-before-tax-details {
+    font-size: 10px;
+}
+
+.tax-price-box {
+    width: 100%;
+    margin-bottom: 3%;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 3%;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 0.5);
+    /* border-radius: 10px 10px 10px 10px; */
+}
+.tax-price {
+    width: 50%;
+    display: inline-block;
+    text-align: left;
+    padding-left: 10px;
+}
+.tax-price span {
+    font-size: 13px;
+}
+.tax {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+.tax span {
+    font-weight: bold;
+}
+.total-price-box {
+    width: 100%;
+    margin-bottom: 1%;
+    display: flex;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 0.5);
+    font-weight: bold;
+    /* border-radius: 10px 10px 10px 10px; */
+}
+.total-price {
+    width: 50%;
+    display: inline-block;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.total {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+
+.info-of-hotel-before-booking h5 {
+    /* border-bottom: 2px solid ; */
+    padding: 5px;
+    box-shadow: 3px 3px 10px rgb(0 0 0 / 0.2);
+    
+}
+
+.guest-table {
+    margin-top: 2%;
+    box-shadow: 3px 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.checkin-checkout-form {
+    width: 50%;
+    /* border: 1px solid; */
+    display: inline-block;
+}
+
+.checkin-checkout-boxes {
+    width: 50%;
+    /* border: 1px solid; */
+    /* font-size: 12px; */
+    letter-spacing: -1px;
+    /* font-weight: bold; */
+}
+
+.checkinBox {
+    /* border: 1px solid; */
+    text-align: left;
+}
+
+.checkOutBox {
+    text-align: left;
+}
+
+.info-of-hotel-before-booking span{
+    letter-spacing: -2px;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding-left: 5px;
+}
+.add-guest {
+    margin: 2%;
+    margin-top: 5%;
+    /* width: 100%; */
+    display: inline-block;
+}
+.guest-table {
+    display: inline-block;
+}
+.phone {
+    margin-top: 3%;
+    margin-right: 3%;
+}
+.no-of-room{
+    padding: 2px;
+    border: 1px solid;
+}
+.book {
+    /* width: 50%; */
+    margin: 2%;
+    display: inline-block;
+}

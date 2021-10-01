@@ -1,0 +1,25 @@
+.list_of_reviews {
+    /* border: 1px solid; */
+    margin: 2%;
+    padding: 2%;
+    /* display: flex; */
+    width: 96%;
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.5);
+
+}
+.list_of_reviews_star {
+    padding-left: 3%;
+}
+.list_of_reviews_userName {
+    /* display: inline-block; */
+    width: 100%;
+    /* border: 1px solid; */
+    padding: 1%;
+}
+.list_of_reviews_review {
+    /* display: inline-block; */
+    width: 100%;
+    /* border: 1px solid; */
+    padding: 1%;
+    padding-left: 3%;
+}

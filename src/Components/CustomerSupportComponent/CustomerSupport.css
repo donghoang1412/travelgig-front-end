@@ -1,0 +1,30 @@
+.customer_support {
+    /* border: 1px solid; */
+    width: 100%;
+    text-align: center;
+}
+.customer_support h5 {
+    font-weight: bold;
+    font-size: xx-large;
+}
+.customer_support_row {
+    /* border: 1px solid; */
+    width: 98%;
+    margin: 1%;
+    text-align: left;
+}
+
+.customer_support_title {
+    width: 30% ;
+    /* border: 1px solid; */
+    display: inline-block;
+    padding-bottom: 7px;
+}
+.customer_support_row .MuiOutlinedInput-input {
+    padding: 6px !important;
+}
+.customer_support_text {
+    width: 70% ;
+    /* border: 1px solid !important; */
+    display:  inline-block ;
+}

@@ -1,0 +1,29 @@
+.searchHotels {
+
+    margin-left: 5%;
+    margin-bottom: 1%;
+    margin-right: 5%;
+    /* border: 1px solid; */
+    width: 90%;
+    display: inline-block;
+}
+.title {
+    width: 100%;
+    /* border: 1px solid; */
+    text-align: left;
+    padding: 10px   ;
+}
+
+.hotel-room-guest {
+    width: 100%;
+    /* border: 1px solid; */
+    text-align: center;
+   
+}
+.field {
+    width: 15%;
+    /* border: 1px solid; */
+    display: inline-block;
+    margin-right: 1%;
+}
+

@@ -1,0 +1,18 @@
+.HSQuestion {
+    /* border:  1px solid; */
+    width: 100%;
+    margin-bottom: 1%;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 0px 5px rgb(0 0 0 / 0.5);
+    padding: 10px;
+    overflow: auto;
+}
+.HSQuestion span {
+    font-weight: bold;
+}
+.answerBox {
+    width: 100%;
+}
+.HSQuestion button {
+    margin-top: 1%;
+}

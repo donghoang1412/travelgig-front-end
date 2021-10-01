@@ -1,0 +1,68 @@
+.dateIn-dateOut {
+    width: 95%;
+    margin: 2%;
+    /* border: 1px solid; */
+    display: flex;
+}
+.checkIn {
+    width: 25%;
+    margin: 2%;
+    /* border: 1px solid; */
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+}
+.checkIn p {
+    font-size: x-small;
+    letter-spacing: -1px;
+    color: rgb(116, 74, 194);
+}
+.guest {
+    width: 40%;
+    /* border: 1px solid; */
+    margin: 2%;
+    text-align: left;
+    padding-left: 10%;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(98, 98, 226);
+    letter-spacing: -1px;
+
+}
+.arrowDownButton {
+    cursor: pointer;
+}
+
+
+.checkOut {
+    width: 25%;
+    margin: 2%;
+    /* border: 1px solid; */
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+}
+.checkOut p{
+    font-size: x-small;
+    letter-spacing: -1px;
+    color: rgb(116, 74, 194);
+
+}
+.date-can-cancel {
+    width: 95%;
+    margin: 2%;
+    margin-top: 0%;
+    padding-left: 10%;
+    /* border: 1px solid; */
+    display: flex;
+    display: inline-block;
+
+}
+.date-can-cancel p{
+    font-size: x-small;
+}
+.date-can-cancel span{
+    font-size: medium;
+    color: rgb(128, 114, 209);
+    letter-spacing: -1px;
+}

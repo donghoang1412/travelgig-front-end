@@ -1,0 +1,56 @@
+.roomType {
+    /* border: 1px solid; */
+    display: flex;
+    margin: 1%;
+    margin-top: 0%;
+    padding: 5px;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    padding-right: 0%;
+    box-shadow: 3px 3px 10px rgb(0 0 0 / 0.3);
+}
+.roomType .roomType-header{
+    display: flex;  
+}
+.roomType .roomType-name{
+    display: flex;
+    margin-left: 1%;
+    padding-left: 5px;
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: -2px;
+    font-weight: 550;
+
+}
+.roomType-info{
+    display: flex;
+    width: 50%;
+    /* border: 1px solid;
+    border-radius: 10%; */
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 0%;
+    padding: 2px;
+}
+.roomType-price {
+    width: 30%;
+    /* border-left: 1px solid; */
+    background-color: rgb(230, 239, 240);
+    text-align: center;
+    position: relative;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 7px;
+}
+.roomType-price span{
+    font-size: small;
+    font-weight: 500;
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: -2px;
+}
+.roomType-button{
+    text-align: center;
+}
+.center-button{
+    transform: translate(15%, 25%);
+}

@@ -1,0 +1,15 @@
+.header {
+    width: 100% !important;
+    margin: 0 auto;
+}
+.header button{
+    float: right !important;
+    margin: 1%;
+    margin-left: 2px !important;
+}
+.header h5 {
+    float: right;
+    margin-top: 1%;
+    padding: 3px;
+    padding-right: 10%;
+}
